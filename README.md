@@ -17,8 +17,8 @@ Scan the QR code with Expo Go app on your phone.
 Or use Android emulator via Expo Dev Tools.
 Make sure your Firebase.js is properly configured with your Firebase project.
 
-2. Backend – Flask API (for DASS + BERT analysis)
-✅ Requirements
+### 2. Backend – Flask API (for DASS + BERT analysis)
+Requirements:
 Python 3.9+
 
 Required packages:
