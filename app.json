@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Serenity",
+    "slug": "Serenity",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/serenitylogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./app/assets/wel.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/serenitylogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.Serenity"
+    },
+    "web": {
+      "favicon": "./app/assets/serenitylogo.png"
+    }
+  }
+}
